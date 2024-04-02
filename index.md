@@ -5,7 +5,6 @@
 - listItem2
 - listItem3
 
-
   
 **Ordered List Items**
 1. listItem1
@@ -13,8 +12,8 @@
 3. listItem3
 
 
-*Italic Items*
-***BoldItalic Items***
+*Italic Items*  
+***BoldItalic Items***  
 
 Line
 > nestedLine
