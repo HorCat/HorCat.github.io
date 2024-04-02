@@ -3,8 +3,7 @@
 **Unordered List Items**
 - listItem1
 - listItem2
-- listItem3
-  
+- listItem3    
   
 **Ordered List Items**
 1. listItem1
