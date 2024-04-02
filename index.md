@@ -3,7 +3,7 @@
 **Unordered List Items**
 - listItem1
 - listItem2
-- listItem3    
+- listItem3<br>
 
   
 **Ordered List Items**
