@@ -1,19 +1,26 @@
-# Headline
 
-**Unordered List Items**
+# Mitschriften
+
+**Automatisierung**
 - listItem1
 - listItem2
 - listItem3
 
-  
-**Ordered List Items**
-1. listItem1
-2. listItem2
-3. listItem3
+ [Automatisierung - Datei](/scripts/automatisierung.pdf)
+
+**TINF**
+- listItem1
+- listItem2
+- listItem3
+
+ [Automatisierung - Datei](/scripts/automatisierung.pdf)
 
 
-*Italic Items*  
-***BoldItalic Items***  
+
+
+
+*Italic Items*
+***BoldItalic Items***
 
 Line
     > nestedLine
