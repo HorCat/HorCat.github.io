@@ -1,6 +1,6 @@
 
 # Mitschriften
-![image info](text70.svg)
+
 
 **Automatisierung**
 - listItem1
@@ -16,7 +16,7 @@
 
  [Automatisierung - Datei](/scripts/automatisierung.pdf)
 
-
+![image info](text70.svg)
 
 
 
