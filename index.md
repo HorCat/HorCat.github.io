@@ -1,6 +1,6 @@
 
 # Mitschriften
-
+<img src="text70.svg" width="200" height="100">
 
 **Automatisierung**
 - listItem1
