@@ -1,5 +1,6 @@
 
 # Mitschriften
+![image info](text70.svg)
 
 **Automatisierung**
 - listItem1
