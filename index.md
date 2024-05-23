@@ -16,7 +16,7 @@
 
  [Automatisierung - Datei](/scripts/automatisierung.pdf)
 
-![image info](text70.svg)
+![image info](docimage.xcf)
 
 
 
